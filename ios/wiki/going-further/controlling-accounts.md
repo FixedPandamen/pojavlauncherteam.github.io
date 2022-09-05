@@ -1,4 +1,4 @@
-# Signing in
+# Signing in FixedPandamen
 
 Since Minecraft: Java Edition has many account types, you'll need to figure out which option to select.
 
